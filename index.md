@@ -7,5 +7,6 @@
 <h3>区别四个皇的方法</h3>
 <p>天皇学习好，<strong>，东皇长得帅（虽然脸上有青春美丽嘎子豆，但是不影响我是颜值担当）</strong>北皇比较胖（可以认为可爱）南皇戴眼镜</p>
  <p>由于我有些许的累所以本次网页就先写到这里。感兴趣的小伙子，小妹妹们快来加入我们太黄天国吧。</p>
+<img border="0" src="https://github.com/jjcishandsome/-/blob/gh-pages/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20201119184208.png" alt="Pulpit rock" width="304" height="228"
  </body>
 </html>

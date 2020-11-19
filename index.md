@@ -9,6 +9,6 @@
  <p>由于我有些许的累所以本次网页就先写到这里。感兴趣的小伙子，小妹妹们快来加入我们太黄天国吧。</p>
 <img border="0" src="微信图片_20201119184208.png">
  <h2 style="text-align:center;">太黄天国万岁</h2>
- <a href="#">神奇网页</a>（这个是可以点的）
+ <a href="clxon.github.io">神奇网页</a>（这个是可以点的）
  </body>
 </html>

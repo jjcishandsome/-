@@ -18,5 +18,6 @@
  <h2 style="text-align:center;">太黄天国万岁</h2>
   <a href="//clxon.github.io/">神奇网页</a>（这个是可以点的）
  <h>由于我掌握了链接技术，所以以后这个网页可以像网络小说似的想看哪章一点就能看到，咱们可以做一个故事剧情，但是故事还是由你们编吧，编完给我以链接的形式上传上来。<strong>想加入的同志们快来吧，我们需要你。</strong></h>
+  <a href="//jjcishandsome.github.io/-handsome//">神奇网页</a>
  </body>
 </html>

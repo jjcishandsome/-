@@ -21,7 +21,7 @@
 <h1 style="text-align:center;">太黄天国的组成及奋斗目标（背景板代表了我们的宣言）</h1>
 <p class="size">太黄天国等级：皇，部长，副部长，圣黄，黄斗士，小黄。</p>
 <strong><p align="center">第一等级:</p></strong>
-<table width="500" align="center" border="1" class="blue">
+<table align="center" border="1" class="blue">
     <tr>
         <td>天皇</td>
         <td>东皇</td>

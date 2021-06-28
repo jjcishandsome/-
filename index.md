@@ -31,7 +31,7 @@
     <tr>
         <td>于某博</td>
         <td>姜某丞</td>
-        <td>米谋齐</td>
+        <td>米某齐</td>
         <td>王某维</td>
     </tr>
 </table>
